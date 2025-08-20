@@ -47,6 +47,6 @@
   <div></div>
 
 ------
-Credit: [zillastar](https://github.com/zillastar)
+Credit: [**Erick** ✨](https://github.com/athusderia)
 
 Last Edited on: 12/11/2022
