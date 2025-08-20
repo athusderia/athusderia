@@ -12,8 +12,8 @@ I care about delivering solutions that not only meet technical requirements but 
 
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bryant-ponce/) 
-[📧 Email](mailto:bryant_ponce@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-romero-larraga/) 
+[📧 Email](mailto:dverickr@gmail.com)
 
 ## My Skills Include
 
