@@ -8,7 +8,7 @@ I care about delivering solutions that not only meet technical requirements but 
 🔷 My main stack:  
 - Backend: **Node.Js, Express and MySQL**
 - Frontend: **React.Js, Vue.Js and Tailwind CSS**
-- Other: mqtt, Azure, AWS
+- Other: Mqtt, Azure, AWS
 
 
 ## 🌐 Connect with me:
@@ -27,6 +27,7 @@ I care about delivering solutions that not only meet technical requirements but 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bryantGit&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
