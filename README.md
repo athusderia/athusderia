@@ -1,12 +1,11 @@
 ## Hi there 👋
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=athusderia&theme=radical&hide_border=false)<br/>
 
 <p align = center ><img src="https://i.imgur.com/x6qU1kR.png"> </p>
 
 <div>
 
-<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
+<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/V3irJdN.jpeg"/>
 
 <h2> / about me /</h2>
   
@@ -43,6 +42,9 @@
 <a href="https://www.pixiv.net/en/users/35069640">Image by 前髪</a>
   </div>
   </div>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=athusderia&theme=radical&hide_border=false)<br/>
+  <div></div>
 
 ------
 Credit: [zillastar](https://github.com/zillastar)
