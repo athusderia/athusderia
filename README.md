@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Erick Romero
 
-### 💻 Full-Stack Developer | React. js, Node.js, Vue.js 
+### 💻 Full-Stack Developer | React, Node, Vue, Angular 
 
 I’m a dedicated **Full-Stack Developer** with experience designing and building **modern applications** that are efficient, scalable, and user-friendly.  
 I care about delivering solutions that not only meet technical requirements but also create real value and solve meaningful business problems.  
 
 🔷 My main stack:  
 - Backend: **Node.Js, Express and MySQL**
-- Frontend: **React.Js, Vue.Js and Tailwind CSS**
+- Frontend: **React, Vue, Angular and Tailwind CSS**
 - Other: Mqtt, Azure, AWS
 
 
